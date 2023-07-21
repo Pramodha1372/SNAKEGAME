@@ -1,7 +1,7 @@
 # SNAKEGAME
 Snake game using python modules
 
-GOALS
+GOALS -- 
 To practice python concepts.
 To learn turtle, random and time modules in python.
 To build a childhood dream game using simple code in hours.
